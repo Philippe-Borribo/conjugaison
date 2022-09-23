@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1663938006 source:c:\users\dell\documents\code blocks\projets\conjugaison\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1607442429 source:c:\users\dell\documents\code blocks\projets\conjugaison\liste_verbe.c
+
+1607436993 c:\users\dell\documents\code blocks\projets\conjugaison\liste_verbe.c
+
+1607438283 c:\users\dell\documents\code blocks\projets\conjugaison\liste_verbe.h
+
